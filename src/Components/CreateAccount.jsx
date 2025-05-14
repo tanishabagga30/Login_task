@@ -18,7 +18,7 @@ const CreateAccount = () => {
   };
 
   const handleSubmit = () => {
-    navigate("/allreadyUser");
+    navigate("/already_user");
   };
 
   return (
